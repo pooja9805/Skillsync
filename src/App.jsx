@@ -5,7 +5,7 @@ import Navbar from "./components/Navbar";
 function App() {
   return (
     <Router>
-     <div className="min-h-screen bg-gradient-to-br from-white via-gray-100 to-slate-200">
+     <div className="min-h-screen">
 
 
         <Navbar />
