@@ -131,6 +131,7 @@ export type CompositeTypes<
     ? DefaultSchema["CompositeTypes"][PublicCompositeTypeNameOrOptions]
     : never
 
+export type CompositeType<
 export const Constants = {
   public: {
     Enums: {},
